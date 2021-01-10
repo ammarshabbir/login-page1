@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318927721659",
+    "firebase_url": "https://login-page-1-79190.firebaseio.com",
+    "project_id": "login-page-1-79190",
+    "storage_bucket": "login-page-1-79190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318927721659:android:ba9cfd659dd37fc699c59e",
+        "android_client_info": {
+          "package_name": "com.ammar.login_page1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318927721659-rbj6l8mfpn1qtg9tce951kmijp72hi25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWjhnEjLr32YXFcJ2qXsj_XuVEJ2uf8Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318927721659-rbj6l8mfpn1qtg9tce951kmijp72hi25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
